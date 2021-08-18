@@ -1,0 +1,9 @@
+.idea/
+build/
+settings.gradle
+gradlew
+gradlew.bat
+build.gradle
+.gradle/
+.gitignore/
+gradle/
